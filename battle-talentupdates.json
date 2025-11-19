@@ -1,0 +1,12 @@
+[
+    {
+        "UpdateStageName": "",
+        "UpdateSourcePlatform": "All",
+        "UpdateSource": "FetchURL",
+        "UpdateSourceData": "https://www.dropbox.com/scl/fi/l148gjomr90x8ko7r5ttn/BTDedicatedServerWin.zip?rlkey=5yxzn0ehifn977zfk8gqm1vmj&st=oh3wf2wu&dl=1",
+        "UnzipUpdateSource": true,
+        "OverwriteExistingFiles": false,
+        "DeleteAfterExtract": true,
+        "OneShot": false
+    }
+]
